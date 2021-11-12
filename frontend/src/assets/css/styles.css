@@ -22,7 +22,9 @@ html, body {
     flex-shrink: 0;
     text-align: center;
 }
-
+.footer .container .text-light a{
+    text-decoration: none;
+}
 .bg-primary {
     background-color: var(--color-primary) !important;
 }
