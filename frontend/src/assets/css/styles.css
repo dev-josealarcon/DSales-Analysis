@@ -17,9 +17,7 @@ html, body {
 .content {
     flex: 1 0 auto;
 }
-.p-3{
-    padding: 0px;
-}
+
 p{
     font-size: 16px;
 }
