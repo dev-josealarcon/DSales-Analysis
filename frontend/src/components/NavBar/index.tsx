@@ -13,7 +13,7 @@ const NavBar = () => {
                 <div></div>
               </div>
 
-              <span>José Alarcón</span>
+              <span>José Alarcón</span> <span className="lead">| Main page</span>
             </div>
           </Link>
         </nav>

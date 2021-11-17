@@ -19,7 +19,7 @@ const Home = () => {
                 <br />
 
             <Link className="btn btn-primary btn-lg" to="/dashboard">
-                Access dashboard
+                Access to DSale
             </Link>
             </div>
         </div>
